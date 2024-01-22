@@ -1,3 +1,3 @@
 # Javascript
 JAVASCRIPT <br>
-Auther : MahmadHadi
+Auther: MahmadHadi
